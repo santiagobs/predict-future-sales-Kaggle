@@ -9,4 +9,4 @@
 	<li>Train/test split is set up considering time, also I use a simple mix ensemble model with LGB and Linear Regression.</li>
 </ul>
 
-<p>Submited on april 4th 2020. My public and private LB scores are: 0.975568 and 0.977608.</p>
+<p>Submited on april 4th 2020. <strong>My public and private LB scores are: 0.975568 and 0.977608.</strong></p>
